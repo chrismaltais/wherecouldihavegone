@@ -21,12 +21,6 @@ Data and technology can put a lot in perspective. We wanted to exploit the natur
 
 ![View of Web App](https://i.imgur.com/sncBL40.png)
 
-## Take a Moment to Think
-
-According to the [Bureau of Statistics 2014 Census](http://www.ubos.org/2016/03/24/census-2014-final-results/), Ugandan children have to walk an average 12km per day (6km to and from) for access to education.
-
-- [ ] Complete this section
-
 # To do
 - [x] Get domain working completely (Callbacks from Fitbit API can be finnicky)
 - [x] Display path of comparision map to front-end (Data is already present in backend)
